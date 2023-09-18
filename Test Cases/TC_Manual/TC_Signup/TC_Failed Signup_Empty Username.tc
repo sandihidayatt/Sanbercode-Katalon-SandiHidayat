@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Failed Signup_Empty Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8238bbf-5556-46aa-a3fa-394f250600d3</testCaseGuid>
+</TestCaseEntity>
