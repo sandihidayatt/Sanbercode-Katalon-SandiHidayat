@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b8447342-ea31-47b5-9432-bd271910e010</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e05a6524-4286-41cd-a5d9-6c29dffe7730</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db86bfd1-edd8-4e85-8fcd-807d55319565</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sandihidayat175'</defaultValue>
+      <description></description>
+      <id>e05a6524-4286-41cd-a5d9-6c29dffe7730</id>
+      <masked>false</masked>
+      <name>GlobalUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>db86bfd1-edd8-4e85-8fcd-807d55319565</id>
+      <masked>false</masked>
+      <name>GlobalPassword</name>
+   </variable>
 </TestCaseEntity>

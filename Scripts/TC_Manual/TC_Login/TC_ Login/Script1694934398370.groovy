@@ -21,9 +21,9 @@ WebUI.openBrowser(GlobalVariable.baseURL)
 
 WebUI.click(findTestObject('ObjManualSpy/Homepage/menu_Login'))
 
-WebUI.setText(findTestObject('ObjManualSpy/Login/input_Username'), GlobalVariable.GlobalUsername)
+WebUI.setText(findTestObject('ObjManualSpy/Login/input_Username'), validUsername)
 
-WebUI.setText(findTestObject('ObjManualSpy/Login/input_Password'), GlobalVariable.GlobalPassword)
+WebUI.setText(findTestObject('ObjManualSpy/Login/input_Password'), validPassword)
 
 WebUI.click(findTestObject('ObjManualSpy/Login/btn_Login'))
 
